@@ -1,5 +1,4 @@
 ## CS
-
 ### CS fields
 - [TeachYourselfCS](https://github.com/minnsane/TeachYourselfCS-KR)
 
@@ -14,7 +13,8 @@
 - [SPARCS 세미나 자료](https://sparcs.org/seminars)
 - [컴퓨터공학을 공부할 때 사용하는 인터넷 자료](https://coding-groot.tistory.com/93)
 
-## DL
+
+## ML
 ### Lectures
 - [CS 329S: Stanford, Winter 2021](https://stanford-cs329s.github.io/syllabus.html)
 - [CS 182: UC Berkeley, Spring 2021](https://www.youtube.com/watch?v=rSY1pVGdZ4I&list=PL_iWQOsE6TfVmKkQHucjPAoRtIJYt8a5A&index=1)
@@ -25,6 +25,7 @@
 - [MIT DeeplearningBook](https://www.deeplearningbook.org)
 - [PyTorch로 시작하는 딥 러닝 입문](https://wikidocs.net/book/2788)
 - [데이터 사이언스 스쿨](https://datascienceschool.net/intro.html)
+- [ML Interviews Book](https://huyenchip.com/ml-interviews-book/)
 
 ### NLP
 - [딥 러닝을 이용한 자연어 처리 입문](https://wikidocs.net/book/2155)
@@ -35,3 +36,4 @@
 - [AI 입문 자료모음](https://theonly1.tistory.com/1565)
 - [딥러닝 스터디 자료모음](https://bbongcol.github.io/deep-learning-bookmarks/)
 - [라온피플](https://blog.naver.com/PostList.nhn?isHttpsRedirect=true&blogId=laonple&from=postList&categoryNo=22)
+- [2021 MLOps KR 1st community](https://www.youtube.com/watch?v=I-sa8bOcOUk&list=PLIuC6QlQQF0Pf-aM0tioYTjrnLzaJaGez&index=2)
