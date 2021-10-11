@@ -7,6 +7,7 @@
 - [WeareSoft](https://github.com/WeareSoft/tech-interview)
 - [jobhope](https://github.com/jobhope/TechnicalNote)
 - [WooVictory](https://github.com/WooVictory/Ready-For-Tech-Interview)
+- [gyoogle](https://github.com/gyoogle/tech-interview-for-developer)
 
 ### etc
 - [Concepts of CS terms](https://m.blog.naver.com/PostView.nhn?blogId=knix008&logNo=220700047637&proxyReferer=https:%2F%2Fwww.google.com%2F)
