@@ -4,3 +4,5 @@ venv/
 venv.bak/
 .idea/
 
+# Notepad
+practice.py
