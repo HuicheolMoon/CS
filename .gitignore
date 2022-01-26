@@ -1,8 +1,0 @@
-# Environments, Projects
-.venv
-venv/
-venv.bak/
-.idea/
-
-# Notepad
-practice.py
